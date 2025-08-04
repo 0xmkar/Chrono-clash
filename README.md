@@ -42,7 +42,7 @@ Chrono Clash is a turn-based multiplayer battle game built on Etherlink. Players
 ## Contract Address
 
 - **Address:** `0x7B80B5f84C84F2DfC4846938e8B1b3283d75453a`
-- **Explorer:** [View on Etherlink Explorer]([https://testnet-explorer.etherlink.com](https://testnet.explorer.etherlink.com/address/0x7B80B5f84C84F2DfC4846938e8B1b3283d75453a))
+- **Explorer:** [View on Etherlink Explorer](https://testnet.explorer.etherlink.com/address/0x7B80B5f84C84F2DfC4846938e8B1b3283d75453a)
 
 ## Etherlink Integration
 
