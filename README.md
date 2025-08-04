@@ -1,6 +1,6 @@
 # Chrono Clash
 
-Chrono Clash is a fast-paced, turn-based multiplayer battle game built on Etherlink. Players connect their crypto wallets, stake tokens, and compete in strategic battles for real rewards. All game logic, match results, and payouts are handled on-chain for maximum fairness and transparency.
+Chrono Clash is a turn-based multiplayer battle game built on Etherlink. Players connect their crypto wallets, stake tokens, and compete in strategic battles for real rewards. All game logic, match results, and payouts are handled on-chain for maximum fairness and transparency.
 
 ## Features
 
